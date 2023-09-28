@@ -1,2 +1,2 @@
 # ox_gridsystem
-grid system with ox_lib points
+gridsystem with ox_lib points
